@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640">
+<defs>
+<path d="M150 0L150 0L150 400L150 400L150 0Z" id="o1ejgqRidH"></path>
+<path d="M320 -0.21L320 -0.21L320 399.79L320 399.79L320 -0.21Z" id="f1nbVhzntE"></path>
+<path d="M490 0L490 0L490 400L490 400L490 0Z" id="kA94ScHni"></path>
+<path d="M435.01 -10.4C434.3 -9.01 433.86 -8.14 433.68 -7.79C355.73 144.99 202.72 245.07 31.51 255.26C26.91 255.53 15.41 256.22 -2.99 257.31" id="cwNCmH7Es"></path>
+<path d="M0 399.79L640 399.79L640 400.79L0 400.79L0 399.79Z" id="fchXd1moz"></path>
+</defs>
+<g><g><g>
+<use xlink:href="#o1ejgqRidH" opacity="1" fill="#fb0026" fill-opacity="1"></use>
+<g>
+<use xlink:href="#o1ejgqRidH" opacity="1" fill-opacity="0" stroke="#ff0000" stroke-width="10" stroke-opacity="1"></use>
+</g></g><g><use xlink:href="#f1nbVhzntE" opacity="1" fill="#ff0000" fill-opacity="1"></use>
+<g>
+<use xlink:href="#f1nbVhzntE" opacity="1" fill-opacity="0" stroke="#ff0000" stroke-width="10" stroke-opacity="1"></use>
+</g></g><g>
+<use xlink:href="#kA94ScHni" opacity="1" fill="#ff0000" fill-opacity="1"></use><g>
+<use xlink:href="#kA94ScHni" opacity="1" fill-opacity="0" stroke="#ff0000" stroke-width="10" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#cwNCmH7Es" opacity="1" fill-opacity="0" stroke="#ff0003" stroke-width="10" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#fchXd1moz" opacity="1" fill-opacity="0" stroke="#ff0002" stroke-width="10" stroke-opacity="1"></use></g></g></g></g></svg>
